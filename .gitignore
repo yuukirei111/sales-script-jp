@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (state.json 不属于这里 — 它是 skill 运行时数据)
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 临时文件
+*.tmp
+*.bak
+*~
